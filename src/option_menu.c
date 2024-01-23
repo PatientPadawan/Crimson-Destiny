@@ -159,7 +159,7 @@ static const u8 *const sBattleSceneOptions[] =
 
 static const u8 *const sBattleStyleOptions[] =
 {
-    gText_BattleStyleShift,
+    gText_BattleStyleSet,
     gText_BattleStyleSet
 };
 
