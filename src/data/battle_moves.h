@@ -964,11 +964,11 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
 
     [MOVE_GROWTH] =
     {
-        .effect = EFFECT_SPECIAL_ATTACK_UP,
+        .effect = EFFECT_CALM_MIND,
         .power = 0,
         .type = TYPE_NORMAL,
         .accuracy = 0,
-        .pp = 3,
+        .pp = 2,
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_USER,
         .priority = 0,
